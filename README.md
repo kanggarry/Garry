@@ -3,7 +3,7 @@
 pkg install git
 ```
 ```
-git clone https://github.com/bangpateng/push-dc
+git clone https://github.com/kanggarry/Garry
 ```
 ```
 pkg install python
